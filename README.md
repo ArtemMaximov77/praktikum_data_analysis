@@ -1,4 +1,4 @@
-# praktikum_data_analysis
+# practikum_data_analysis
 
 ## Предобработка данных
 
