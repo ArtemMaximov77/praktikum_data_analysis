@@ -1,4 +1,7 @@
 # E-commerce — Выявление профилей потребления
+[Презентация](https://docs.google.com/presentation/d/10PcHBbyYMyqqa4UsS2pXqJE30n54FIT7tnmpKdCsvUk/edit?usp=share_link)  
+[Дашборд](https://public.tableau.com/views/V2_16750883559850/KPIDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Описание проекта  
 Интернет-магазин товаров для дома «Пока все ещё тут» в срочном порядке ищет аналитиков. Вы поможете нашему магазину стать лучше, а клиентам — обустроить дом своей мечты. Наши ближайшие задачи — выявление профилей покупателей, а также их сегментация и анализ.
 «Пока все ещё тут» — мы создаём уют!  
